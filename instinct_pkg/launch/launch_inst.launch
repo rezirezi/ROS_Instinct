@@ -1,0 +1,12 @@
+<launch>
+
+    <node pkg="instinct_pkg" type="instinct_pkg_node" name="instinct_pkg_node" output="screen" >
+
+	<param name="file_path" command="$(find instinct_pkg)/src/simplePlan.inst" />
+
+
+    </node>
+
+    
+
+</launch>
