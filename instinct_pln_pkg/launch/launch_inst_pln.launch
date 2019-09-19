@@ -1,0 +1,11 @@
+<launch>
+
+    <node pkg="instinct_pln_pkg" type="instinct_pln_pkg_node" name="instinct_pln_pkg_node" output="screen" >
+	<param name="file_path" type = "str" value="/home/husarion/instinct_pln/src/instinct_pln_pkg/src/DiaPlan11.inst"/>
+
+
+    </node>
+
+    
+
+</launch>
