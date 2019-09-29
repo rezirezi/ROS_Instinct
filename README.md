@@ -2,7 +2,7 @@
 
  ROS_Instinct is an implementation of Instict: Biologically inspired reactive planner. This implementation is specifically for ROSBot 2.0, however can adjusted for any ROS device.
 
-##Installation 
+## Installation 
 
 * follow the [Husarion Tutorial](https://husarion.com/tutorials/ros-tutorials/2-creating-nodes/) for creating nodes
 * Copy all the files from instinct_pln_pkg/src to your packages src folder
@@ -16,7 +16,7 @@ To install instinct generetator for dia
 * Copy the instinctgen.py file from extras, in the approrpiate location in dia program files
 
 
-##License
+## License
 The Instinct Robot World is Open Source Software distributed under the GNU GPL licence.
 
 Copyright (c) 2018-19 Rezo Tsulukidze
