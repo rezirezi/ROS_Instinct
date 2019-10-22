@@ -1,6 +1,6 @@
 # ROS_Instinct 
 
- ROS_Instinct is an implementation of Instict: Biologically inspired reactive planner. This implementation is specifically for ROSBot 2.0, however can adjusted for any ROS device.
+ ROS_Instinct is an implementation of [Instict: Biologically inspired reactive planner](http://www.robwortham.com/wp-content/uploads/2016/05/ICAPS-2016-PlanRob-Instinct-Planner.pdf). This implementation is specifically for ROSBot 2.0, however can adjusted for any device operating on ROS.
 
 ## Installation 
 
